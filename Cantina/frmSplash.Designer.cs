@@ -97,6 +97,7 @@ namespace Cantina
             this.Name = "frmSplash";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Cantina - Splash";
+            this.Load += new System.EventHandler(this.frmSplash_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pctSplash)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
