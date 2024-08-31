@@ -46,5 +46,40 @@ namespace Cantina
         {
 
         }
+
+        private void btnFuncionarios_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnClientes_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnVendas_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnProdutos_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnConfiguracoes_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnUsuarios_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnFornecedores_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
