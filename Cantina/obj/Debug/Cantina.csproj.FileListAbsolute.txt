@@ -22,3 +22,15 @@ C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCantina-c-\Cantina
 C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCantina-c-\Cantina\bin\Debug\Cantina.exe.config
 C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCantina-c-\Cantina\bin\Debug\Cantina.exe
 C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCantina-c-\Cantina\bin\Debug\Cantina.pdb
+C:\xampp\htdocs\projetoCantina-c-\Cantina\bin\Debug\Cantina.exe.config
+C:\xampp\htdocs\projetoCantina-c-\Cantina\bin\Debug\Cantina.exe
+C:\xampp\htdocs\projetoCantina-c-\Cantina\bin\Debug\Cantina.pdb
+C:\xampp\htdocs\projetoCantina-c-\Cantina\obj\Debug\Cantina.csproj.AssemblyReference.cache
+C:\xampp\htdocs\projetoCantina-c-\Cantina\obj\Debug\Cantina.frmLogin.resources
+C:\xampp\htdocs\projetoCantina-c-\Cantina\obj\Debug\Cantina.frmMenuPrincipal.resources
+C:\xampp\htdocs\projetoCantina-c-\Cantina\obj\Debug\Cantina.frmSplash.resources
+C:\xampp\htdocs\projetoCantina-c-\Cantina\obj\Debug\Cantina.Properties.Resources.resources
+C:\xampp\htdocs\projetoCantina-c-\Cantina\obj\Debug\Cantina.csproj.GenerateResource.cache
+C:\xampp\htdocs\projetoCantina-c-\Cantina\obj\Debug\Cantina.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\projetoCantina-c-\Cantina\obj\Debug\Cantina.exe
+C:\xampp\htdocs\projetoCantina-c-\Cantina\obj\Debug\Cantina.pdb
